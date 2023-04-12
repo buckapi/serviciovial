@@ -516,7 +516,7 @@ iframe {
 /*=== Image ===*/
 img {
   height: auto;
-  max-width: 10%;
+  max-width: 100%;
   vertical-align: middle;
 }
 
